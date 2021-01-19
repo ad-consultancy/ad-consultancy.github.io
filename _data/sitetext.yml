@@ -1,7 +1,7 @@
 header:
-    title: Welkom bij AD Consultancy
-    text: Wij helpen met jouw zaak
-    button: Vertel me meer!
+    title: "Welkom bij AD Consultancy"
+    text: "Wij helpen met jouw zaak"
+    button: "Vertel me meer!"
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
