@@ -27,7 +27,6 @@ portfolio:
 
 timeline:
     title: "Over ons"
-    text: "Lorem ipsum timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
