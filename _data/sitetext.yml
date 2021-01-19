@@ -1,12 +1,12 @@
 header:
     title: "Welkom bij AD Consultancy"
-    text: "Wij helpen met jouw zaak"
+    text: "Wij helpen met uw zaak"
     button: "Vertel me meer!"
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Diensten"
-    text: "Lorem ipsum"
+    text: "Welke diensten bieden wij aan"
     section: services
     list:
       - title: "Administratie"
