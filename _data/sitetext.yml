@@ -26,7 +26,7 @@ portfolio:
 
 
 timeline:
-    title: "About"
+    title: "Over ons"
     text: "Lorem ipsum timeline"
     section: timeline
     events:
@@ -57,8 +57,8 @@ timeline:
     end: "Be Part <br> of Our <br> Story!"
 
 about:
-    title: "About Us"
-    text: "our story"
+    title: "Over ons"
+    text: "Over ons"
     section: about
 
 clients:
@@ -80,7 +80,7 @@ clients:
         logo: assets/img/clients/creative-market.jpg
 
 team:
-    title: "OUR AMAZING TEAM"
+    title: "ONS TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -117,7 +117,7 @@ team:
             icon: fab fa-linkedin-in
 
 contact:
-    title: "Contact Us"
+    title: "Contacteer ons"
     text: "Lorem ipsum or call 123456789"
     section: contact
 
@@ -130,8 +130,6 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 
